@@ -5,11 +5,11 @@ The project is a full stack web developement project of ping pong game implement
 A live demo of the Dynamic Ping Pong project can be found here- https://dynamic-ping-pong.vercel.app/  <br/>
 
 ### Features
-Play a dynamic ping pong game against another friend. <br/>
-One player uses the arrow keys and other player uses WASD to control the paddle. <br/>
-The speed of the ball increases with time. <br/>
-Keep track of the score for both the players. <br/>
-Game over screen with the option to restart the game. <br/>
+* Play a dynamic ping pong game against another friend. <br/>
+* One player uses the arrow keys and other player uses WASD to control the paddle. <br/>
+* The speed of the ball increases with time. <br/>
+* Keep track of the score for both the players. <br/>
+* Game over screen with the option to restart the game. <br/>
 
 ### Tech Stack
 The Dynamic Ping Pong project is built using the following technologies: <br/>
